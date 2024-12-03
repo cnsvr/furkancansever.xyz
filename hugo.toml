@@ -4,7 +4,7 @@ title = "hi, i'm furkan."
 theme = 'hello-friend-ng'
 
 [params]
-    homeSubtitle = "( ͡° ͜ʖ ͡°)"
+    homeSubtitle = "( ͡° ͜ʖ ͡°)"    
 
 [params.footer]
 
