@@ -6,15 +6,20 @@ theme = 'hello-friend-ng'
 [params]
     homeSubtitle = "🤞"
 
+[pagination]
+  disableAliases = false
+  pagerSize = 5
+  path = 'page'
+
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "Athoughts"
+    name       = "Thoughts"
+    url        = "thoughts/"
 
 [[params.social]]
 name = "email"
