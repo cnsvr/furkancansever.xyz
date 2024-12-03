@@ -4,14 +4,13 @@ title = "hi, i'm furkan."
 theme = 'hello-friend-ng'
 
 [params]
-    homeSubtitle = "( ͡° ͜ʖ ͡°)"    
+  homeSubtitle = "( ͡° ͜ʖ ͡°)"
 
 [params.footer]
-
-    topText = ["Furkan Cansever", "<a href='mailto:furkancansever@icloud.com'>furkancansever@icloud.com</a>"]
-    bottomText = [
-      "<br>Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
-    ]
+  topText = ["Furkan Cansever", "<a href='mailto:furkancansever@icloud.com'>furkancansever@icloud.com</a>"]
+  bottomText = [
+    "<br>Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
+  ]
 
 [pagination]
   disableAliases = false
@@ -27,6 +26,10 @@ theme = 'hello-friend-ng'
     identifier = "Athoughts"
     name       = "Thoughts"
     url        = "thoughts/"
+  [[menu.main]]
+    identifier = "bookmarks"
+    name       = "Bookmarks"
+    url        = "bookmarks/"
 
 [[params.social]]
 name = "email"
