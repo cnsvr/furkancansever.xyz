@@ -1,0 +1,29 @@
+baseURL = 'https://furkancansever.xyz/'
+languageCode = 'en-us'
+title = "hi, i'm furkan."
+theme = 'hello-friend-ng'
+
+[params]
+    homeSubtitle = "🤞"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+
+[[params.social]]
+name = "email"
+url  = "mailto:furkan.cansever@icloud.com"
+
+[[params.social]]
+name = "github"
+url  = "https://github.com/cnsvr"
+
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/in/furkan-cansever"
