@@ -7,7 +7,7 @@ theme = 'hello-friend-ng'
   homeSubtitle = "( ͡° ͜ʖ ͡°)"
 
 [params.footer]
-  topText = ["Furkan Cansever", "<a href='mailto:furkancansever@icloud.com'>furkancansever@icloud.com</a>"]
+  topText = ["Furkan Cansever", "<a href='mailto:furkan.cansever@icloud.com'>furkan.cansever@icloud.com</a>"]
   bottomText = [
     "<br>Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
   ]
